@@ -69,7 +69,7 @@ Assume that in the code *the ellipse that represents Earth is in the correct pos
 
 
 ## Planetary Facts - Ratio to Earth
-| MERCURY | VENUS | EARTH | MARS | JUPITER | SATURN | URANUS | NEPTUNE | PLUTO
+*ratios* | MERCURY | VENUS | EARTH | MARS | JUPITER | SATURN | URANUS | NEPTUNE | PLUTO
  --- | --- | --- | --- | --- | --- | --- | --- | --- |
  **Diameter** | 0.4 |	0.9 |	1	| 0.5 | 11.2 | 9.5 | 4.0 | 3.9 |	0.2
  **Distance from Sun** | 0.4 | 0.7 | 1 | 1.5 |	5.2 | 9.6 |	19.2 |	30.1 |	39.5
