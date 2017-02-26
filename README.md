@@ -1,6 +1,6 @@
 # Using Variables: The Solar System
 
-![solar system](https://s3.amazonaws.com/upperline/curriculum-assets/p5js/solar-system.png)
+![solar system](https://s3.amazonaws.com/upperline/curriculum-assets/p5js/labs/solar-system.png)
 
 The code below builds a model of the solar system. It's not a very accurate model though because it shows all the planets as the same size. In reality the planet's range in size from Jupiter, over 11 times the size of Earth, to Pluto, with a diameter of only 0.2 times Earth's. Also, in the real solar system the planets are not evenly spaced apart. Pluto, for example, is almost 40 times as far from the sun as Earth is. Considering that Earth is 92.96 million miles from the sun, that's pretty far!!
 
