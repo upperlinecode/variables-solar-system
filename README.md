@@ -84,3 +84,15 @@ This would be really tedious to do for every planet, and why should we do all th
 You will probably start out by having at least two variables representing Earth's diameter and Earth's distance from the sun.  Can you make additional variables for each planet so that your code is extremely *easy to read* for other programmers?
 
 Rather than hard-coding in Earth's diameter and distance, could you make those values be proportional to the size of the canvas so that the solar system stayed proportional no matter how you changed the canvas size?
+
+## Expert Challenges
+
+If you accomplish all of these goals here are some suggestions on how you could expand on this project
+
+- 3D planets. p5 allows you to build three dimensional objects. Check the documentation for 3-D Primitives such as [`sphere`](https://p5js.org/reference/#/p5/sphere) and other functions such as [`rotateX`](https://p5js.org/reference/#/p5/rotateX) and [`rotateY`](https://p5js.org/reference/#/p5/rotateY)
+
+- When a planet is clicked on, it could display an "Information Bubble" with some facts about that planet. The data for this lab came from this [NASA Planetary Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/planet_table_ratio.html)
+
+- Could you add shooting starts in the background or an asteroid belt?
+
+Don't stop there, these ideas are meant to be open ended to get you started thinking about all you can do with code!
