@@ -8,7 +8,7 @@ The code below builds a model of the solar system. It's not a very accurate mode
 var centerY;
 
 function setup() {
-  createCanvas(24000, 600);
+  createCanvas(2400, 600);
   centerY = height/2;
 }
 
